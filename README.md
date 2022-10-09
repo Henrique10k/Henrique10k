@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz Henrique. 
 - 👀 I’m interested in Front end
-- 🌱 I’m currently learning  UX, Js e react
+- 🌱 I’m currently learning  ADS, Web design e UX.
 - 💞️ I’m looking to collaborate on projetos que me ajudem a desenvolver o meu potencial
 - 📫 How to reach me:  https://www.linkedin.com/in/luiz-henrique-018767238/
 
